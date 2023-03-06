@@ -1,0 +1,17 @@
+{
+  "name": "openexpress",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "node and express testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "dev"
+  },
+  "author": "alexgerdisch",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
